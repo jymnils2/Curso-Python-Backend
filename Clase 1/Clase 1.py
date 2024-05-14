@@ -12,7 +12,7 @@ print(c.imag)
 #print(982145888888L) ya no existen los long a partir de python 3.0
 # 2. Operaciones numericas
 # 2.1 Suma
-print(2.5+2.1)
+print(2.5+2.1+10)
 # 2.2 Resta
 print(4-3.5)
 # 2.3 Multiplicacion
